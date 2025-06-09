@@ -3,6 +3,7 @@ Um sistema de OS sobre uma luthieria feito com javascript e electron.
 
 # Imagem tela inicial
 ![image](https://github.com/user-attachments/assets/bdb8edee-a2e1-4715-a772-952e3191f623)
+
 Tela inicial com data, status do banco de dados e 2 janelas para cadastro de clientes e Ordem de serviço
 
 
